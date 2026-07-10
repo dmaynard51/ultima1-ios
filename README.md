@@ -24,7 +24,7 @@ The real Ultima I, running in DOSBox — the app boots straight into it:
 
 Requires a **Mac** with **Xcode** and **git**.
 
-**On your iPhone/iPad** (needs a free Apple ID; pass your 10-char Team ID):
+**On your iPhone/iPad** (needs just a free Apple ID — one command):
 
 ```sh
 git clone https://github.com/dmaynard51/ultima1-ios.git
